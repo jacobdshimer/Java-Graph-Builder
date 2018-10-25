@@ -1,1 +1,3 @@
 # Java-Graph-Builder
+
+This was a project for one of my Computer Science classes.  This is a GUI based program with two buttons and two fields.  The first button and field combo take in a filename and opens it reading the file as an adjacency list and turns it into a directed graph.  If no file is specified or if a file is specified and it doesn't exist then it will give an error.  The second field and button combo take in a node within the Graph and builds a topological order.  This is done by utilizing a modified Depth First Search algorithm.  The original algorithm used can be found [here](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/).  It will also check for cyclical graphs. 
