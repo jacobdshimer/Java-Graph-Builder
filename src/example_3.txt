@@ -1,0 +1,7 @@
+ClassA ClassD ClassB
+ClassB ClassE
+ClassC ClassA ClassF
+ClassD ClassB ClassC ClassE ClassF ClassG
+ClassE ClassG
+ClassF ClassG
+ClassG
